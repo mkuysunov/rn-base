@@ -1,0 +1,49 @@
+{
+  "common": {
+    "loading": "Загрузка…",
+    "retry": "Повторить",
+    "cancel": "Отмена",
+    "errors": {
+      "generic": "Что-то пошло не так. Попробуйте ещё раз.",
+      "network": "Нет соединения с сервером."
+    }
+  },
+  "auth": {
+    "title": "Вход",
+    "subtitle": "Введите номер телефона — мы отправим код подтверждения по SMS.",
+    "phoneLabel": "Номер телефона",
+    "phonePlaceholder": "+998 90 123 45 67",
+    "sendCode": "Получить код",
+    "codeLabel": "Код из SMS",
+    "codePlaceholder": "123456",
+    "codeSentTo": "Код отправлен на {phone}",
+    "changePhone": "Изменить номер",
+    "signIn": "Войти",
+    "errors": {
+      "phone": "Введите номер в международном формате",
+      "code": "Введите код из SMS"
+    }
+  },
+  "home": {
+    "title": "Главная",
+    "greeting": "Здравствуйте, {name}!",
+    "greetingAnonymous": "Здравствуйте!",
+    "todayCard": "{count, plural, =0 {Сегодня заказов нет} one {# заказ сегодня} few {# заказа сегодня} many {# заказов сегодня} other {# заказа сегодня}}",
+    "scaffoldHint": "Это каркас экрана. Замените карточку на прикладные виджеты."
+  },
+  "settings": {
+    "title": "Настройки",
+    "language": "Язык",
+    "languages": {
+      "ru": "Русский",
+      "en": "English"
+    },
+    "account": "Аккаунт",
+    "logout": "Выйти",
+    "version": "Версия {version}"
+  },
+  "tabs": {
+    "home": "Главная",
+    "settings": "Настройки"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+ios/
+android/
+vendor/
+coverage/
+.yarn/
+yarn.lock
+Gemfile.lock

@@ -1,0 +1,49 @@
+{
+  "common": {
+    "loading": "Loading…",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "errors": {
+      "generic": "Something went wrong. Please try again.",
+      "network": "No connection to the server."
+    }
+  },
+  "auth": {
+    "title": "Sign in",
+    "subtitle": "Enter your phone number — we will send a confirmation code via SMS.",
+    "phoneLabel": "Phone number",
+    "phonePlaceholder": "+998 90 123 45 67",
+    "sendCode": "Get code",
+    "codeLabel": "SMS code",
+    "codePlaceholder": "123456",
+    "codeSentTo": "Code sent to {phone}",
+    "changePhone": "Change number",
+    "signIn": "Sign in",
+    "errors": {
+      "phone": "Enter the number in international format",
+      "code": "Enter the code from the SMS"
+    }
+  },
+  "home": {
+    "title": "Home",
+    "greeting": "Hello, {name}!",
+    "greetingAnonymous": "Hello!",
+    "todayCard": "{count, plural, =0 {No orders today} one {# order today} other {# orders today}}",
+    "scaffoldHint": "This is a scaffold screen. Replace the card with real widgets."
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languages": {
+      "ru": "Русский",
+      "en": "English"
+    },
+    "account": "Account",
+    "logout": "Log out",
+    "version": "Version {version}"
+  },
+  "tabs": {
+    "home": "Home",
+    "settings": "Settings"
+  }
+}
